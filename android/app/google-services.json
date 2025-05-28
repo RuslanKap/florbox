@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8545196587",
+    "project_id": "flowbox-sl3vpc",
+    "storage_bucket": "flowbox-sl3vpc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8545196587:android:6874aa2c39c87136e9e86e",
+        "android_client_info": {
+          "package_name": "com.mycompany.florbox"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUk61fWqvIt-n7Y38IEL4p3eh8H7DikCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
